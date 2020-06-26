@@ -19,6 +19,20 @@
                               <span class="text-danger" id="l_name-err"></span>
                           </div>
                       </div>
+                      <div class="col-md-3">
+                          <div class="form-group">
+                              <label>Mobile</label>
+                              <input type="text" id="mobile" name="mobile" class="form-control" placeholder="Enter mobile number">
+                              <span class="text-danger" id="mobile-err"></span>
+                          </div>
+                      </div>
+                      <div class="col-md-3">
+                          <div class="form-group">
+                              <label>Profile image.</label>
+                              <input type="file" id="user_img" name="user_img" class="form-control">
+                              <span class="text-danger" id="user_img-err"></span>
+                          </div>
+                      </div>
                   </div>
               </div>    
           </div>        
